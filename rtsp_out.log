@@ -1,0 +1,249 @@
+[90m2024/01/05 13:19:28 [0m[32mINF[0m rtsp-simple-server v0.20.4
+[90m2024/01/05 13:19:28 [0m[32mINF[0m [RTSP] listener opened on :8554 (TCP), :8000 (UDP/RTP), :8001 (UDP/RTCP)
+[90m2024/01/05 13:19:28 [0m[32mINF[0m [RTMP] listener opened on :1935
+[90m2024/01/05 13:19:28 [0m[32mINF[0m [HLS] listener opened on :8888
+[90m2024/01/05 13:19:47 [0m[32mINF[0m [RTSP] [conn [::1]:44272] opened
+[90m2024/01/05 13:19:47 [0m[32mINF[0m [RTSP] [session 49aa8aa8] created by [::1]:44272
+[90m2024/01/05 13:19:47 [0m[32mINF[0m [RTSP] [session 49aa8aa8] is publishing to path 'seq25_h264', with UDP, 1 track (H264)
+[90m2024/01/05 13:20:00 [0m[32mINF[0m [RTSP] [conn [::1]:32912] opened
+[90m2024/01/05 13:20:00 [0m[32mINF[0m [RTSP] [session 4302b322] created by [::1]:32912
+[90m2024/01/05 13:20:01 [0m[32mINF[0m [RTSP] [session 4302b322] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/05 13:20:01 [0m[32mINF[0m [RTSP] [session 4302b322] destroyed (teared down by [::1]:32912)
+[90m2024/01/05 13:20:01 [0m[32mINF[0m [RTSP] [conn [::1]:32912] closed (EOF)
+[90m2024/01/05 13:20:01 [0m[32mINF[0m [RTSP] [conn [::1]:32924] opened
+[90m2024/01/05 13:20:01 [0m[32mINF[0m [RTSP] [session 67465755] created by [::1]:32924
+[90m2024/01/05 13:20:02 [0m[32mINF[0m [RTSP] [session 67465755] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/05 15:46:53 [0m[32mINF[0m rtsp-simple-server v0.20.4
+[90m2024/01/05 15:46:53 [0m[32mINF[0m [RTSP] listener opened on :8554 (TCP), :8000 (UDP/RTP), :8001 (UDP/RTCP)
+[90m2024/01/05 15:46:53 [0m[32mINF[0m [RTMP] listener opened on :1935
+[90m2024/01/05 15:46:53 [0m[32mINF[0m [HLS] listener opened on :8888
+[90m2024/01/05 15:47:02 [0m[32mINF[0m [RTSP] [conn [::1]:44278] opened
+[90m2024/01/05 15:47:02 [0m[32mINF[0m [RTSP] [session a85895ec] created by [::1]:44278
+[90m2024/01/05 15:47:02 [0m[32mINF[0m [RTSP] [session a85895ec] is publishing to path 'seq25_h264', with UDP, 1 track (H264)
+[90m2024/01/05 15:47:04 [0m[32mINF[0m [RTSP] [conn [::1]:44288] opened
+[90m2024/01/05 15:47:04 [0m[32mINF[0m [RTSP] [session 3ac0062f] created by [::1]:44288
+[90m2024/01/05 15:47:05 [0m[32mINF[0m [RTSP] [session 3ac0062f] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/05 15:47:05 [0m[32mINF[0m [RTSP] [session 3ac0062f] destroyed (teared down by [::1]:44288)
+[90m2024/01/05 15:47:05 [0m[32mINF[0m [RTSP] [conn [::1]:44288] closed (EOF)
+[90m2024/01/05 15:47:05 [0m[32mINF[0m [RTSP] [conn [::1]:44298] opened
+[90m2024/01/05 15:47:05 [0m[32mINF[0m [RTSP] [session 40c2111c] created by [::1]:44298
+[90m2024/01/05 15:47:06 [0m[32mINF[0m [RTSP] [session 40c2111c] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/05 20:18:27 [0m[32mINF[0m rtsp-simple-server v0.20.4
+[90m2024/01/05 20:18:27 [0m[32mINF[0m [RTSP] listener opened on :8554 (TCP), :8000 (UDP/RTP), :8001 (UDP/RTCP)
+[90m2024/01/05 20:18:27 [0m[32mINF[0m [RTMP] listener opened on :1935
+[90m2024/01/05 20:18:27 [0m[32mINF[0m [HLS] listener opened on :8888
+[90m2024/01/05 20:18:36 [0m[32mINF[0m [RTSP] [conn [::1]:56342] opened
+[90m2024/01/05 20:18:36 [0m[32mINF[0m [RTSP] [session e6d11bf8] created by [::1]:56342
+[90m2024/01/05 20:18:36 [0m[32mINF[0m [RTSP] [session e6d11bf8] is publishing to path 'seq25_h264', with UDP, 1 track (H264)
+[90m2024/01/05 20:18:38 [0m[32mINF[0m [RTSP] [conn [::1]:56352] opened
+[90m2024/01/05 20:18:38 [0m[32mINF[0m [RTSP] [session 35260fb2] created by [::1]:56352
+[90m2024/01/05 20:18:39 [0m[32mINF[0m [RTSP] [session 35260fb2] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/05 20:18:39 [0m[32mINF[0m [RTSP] [session 35260fb2] destroyed (teared down by [::1]:56352)
+[90m2024/01/05 20:18:39 [0m[32mINF[0m [RTSP] [conn [::1]:56352] closed (EOF)
+[90m2024/01/05 20:18:39 [0m[32mINF[0m [RTSP] [conn [::1]:36270] opened
+[90m2024/01/05 20:18:39 [0m[32mINF[0m [RTSP] [session 1ccd4d01] created by [::1]:36270
+[90m2024/01/05 20:18:40 [0m[32mINF[0m [RTSP] [session 1ccd4d01] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/05 20:25:38 [0m[32mINF[0m [RTSP] [conn [::1]:40954] opened
+[90m2024/01/05 20:25:38 [0m[32mINF[0m [RTSP] [session dbe577cc] created by [::1]:40954
+[90m2024/01/05 20:25:38 [0m[32mINF[0m [RTSP] [session dbe577cc] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/05 20:28:11 [0m[32mINF[0m [RTSP] [conn [::1]:36650] opened
+[90m2024/01/05 20:28:11 [0m[32mINF[0m [RTSP] [session ee674ffd] created by [::1]:36650
+[90m2024/01/05 20:28:11 [0m[32mINF[0m [RTSP] [session ee674ffd] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/05 20:29:32 [0m[32mINF[0m [RTSP] [conn [::1]:58214] opened
+[90m2024/01/05 20:29:32 [0m[32mINF[0m [RTSP] [session 7da53fba] created by [::1]:58214
+[90m2024/01/05 20:29:32 [0m[32mINF[0m [RTSP] [session 7da53fba] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/05 21:24:20 [0m[32mINF[0m rtsp-simple-server v0.20.4
+[90m2024/01/05 21:24:20 [0m[97;41mERR[0m listen udp :8000: bind: address already in use
+[90m2024/01/05 21:24:20 [0m[32mINF[0m waiting for external commands
+[90m2024/01/05 21:24:26 [0m[32mINF[0m [RTSP] [conn [::1]:60246] opened
+[90m2024/01/05 21:24:26 [0m[32mINF[0m [RTSP] [session 30fcfac5] created by [::1]:60246
+[90m2024/01/05 21:24:26 [0m[32mINF[0m [path seq25_h264] closing existing publisher
+[90m2024/01/05 21:24:26 [0m[32mINF[0m [RTSP] [conn [::1]:56342] closed (terminated)
+[90m2024/01/05 21:24:26 [0m[32mINF[0m [RTSP] [conn [::1]:58214] closed (terminated)
+[90m2024/01/05 21:24:26 [0m[32mINF[0m [RTSP] [session 7da53fba] destroyed (terminated)
+[90m2024/01/05 21:24:26 [0m[32mINF[0m [RTSP] [session e6d11bf8] destroyed (terminated)
+[90m2024/01/05 21:24:26 [0m[32mINF[0m [RTSP] [conn [::1]:36270] closed (terminated)
+[90m2024/01/05 21:24:26 [0m[32mINF[0m [RTSP] [conn [::1]:40954] closed (terminated)
+[90m2024/01/05 21:24:26 [0m[32mINF[0m [RTSP] [conn [::1]:36650] closed (terminated)
+[90m2024/01/05 21:24:26 [0m[32mINF[0m [RTSP] [session ee674ffd] destroyed (terminated)
+[90m2024/01/05 21:24:26 [0m[32mINF[0m [RTSP] [session 1ccd4d01] destroyed (terminated)
+[90m2024/01/05 21:24:26 [0m[32mINF[0m [RTSP] [session dbe577cc] destroyed (terminated)
+[90m2024/01/05 21:24:26 [0m[32mINF[0m [RTSP] [session 30fcfac5] is publishing to path 'seq25_h264', with UDP, 1 track (H264)
+[90m2024/01/05 21:24:31 [0m[32mINF[0m [RTSP] [conn [::1]:60146] opened
+[90m2024/01/05 21:24:31 [0m[32mINF[0m [RTSP] [session bae0a069] created by [::1]:60146
+[90m2024/01/05 21:24:32 [0m[32mINF[0m [RTSP] [session bae0a069] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/05 21:24:32 [0m[32mINF[0m [RTSP] [session bae0a069] destroyed (teared down by [::1]:60146)
+[90m2024/01/05 21:24:32 [0m[32mINF[0m [RTSP] [conn [::1]:60146] closed (EOF)
+[90m2024/01/05 21:24:32 [0m[32mINF[0m [RTSP] [conn [::1]:60160] opened
+[90m2024/01/05 21:24:32 [0m[32mINF[0m [RTSP] [session 5d9dde82] created by [::1]:60160
+[90m2024/01/05 21:24:33 [0m[32mINF[0m [RTSP] [session 5d9dde82] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/05 21:47:44 [0m[32mINF[0m [RTSP] [conn [::1]:59900] opened
+[90m2024/01/05 21:47:44 [0m[32mINF[0m [RTSP] [session 2c1b3de6] created by [::1]:59900
+[90m2024/01/05 21:47:44 [0m[32mINF[0m [RTSP] [session 2c1b3de6] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/05 22:11:23 [0m[32mINF[0m rtsp-simple-server v0.20.4
+[90m2024/01/05 22:11:23 [0m[32mINF[0m [RTSP] listener opened on :8554 (TCP), :8000 (UDP/RTP), :8001 (UDP/RTCP)
+[90m2024/01/05 22:11:23 [0m[32mINF[0m [RTMP] listener opened on :1935
+[90m2024/01/05 22:11:23 [0m[32mINF[0m [HLS] listener opened on :8888
+[90m2024/01/05 22:11:31 [0m[32mINF[0m [RTSP] [conn [::1]:52996] opened
+[90m2024/01/05 22:11:31 [0m[32mINF[0m [RTSP] [session 8f2e05d1] created by [::1]:52996
+[90m2024/01/05 22:11:31 [0m[32mINF[0m [RTSP] [session 8f2e05d1] is publishing to path 'seq25_h264', with UDP, 1 track (H264)
+[90m2024/01/05 22:11:35 [0m[32mINF[0m [RTSP] [conn [::1]:53010] opened
+[90m2024/01/05 22:11:35 [0m[32mINF[0m [RTSP] [session e6bb1f2a] created by [::1]:53010
+[90m2024/01/05 22:11:36 [0m[32mINF[0m [RTSP] [session e6bb1f2a] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/05 22:11:36 [0m[32mINF[0m [RTSP] [session e6bb1f2a] destroyed (teared down by [::1]:53010)
+[90m2024/01/05 22:11:36 [0m[32mINF[0m [RTSP] [conn [::1]:53010] closed (EOF)
+[90m2024/01/05 22:11:36 [0m[32mINF[0m [RTSP] [conn [::1]:53020] opened
+[90m2024/01/05 22:11:36 [0m[32mINF[0m [RTSP] [session 6b0c809d] created by [::1]:53020
+[90m2024/01/05 22:11:37 [0m[32mINF[0m [RTSP] [session 6b0c809d] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/05 22:12:06 [0m[32mINF[0m [RTSP] [conn [::1]:59734] opened
+[90m2024/01/05 22:12:06 [0m[32mINF[0m [RTSP] [session f1c70622] created by [::1]:59734
+[90m2024/01/05 22:12:06 [0m[32mINF[0m [RTSP] [session f1c70622] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/05 22:16:39 [0m[32mINF[0m [RTSP] [conn [::1]:52790] opened
+[90m2024/01/05 22:16:39 [0m[32mINF[0m [RTSP] [session 460454c3] created by [::1]:52790
+[90m2024/01/05 22:16:39 [0m[32mINF[0m [RTSP] [session 460454c3] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/05 23:53:14 [0m[32mINF[0m [RTSP] [session 8f2e05d1] destroyed (teared down by [::1]:52996)
+[90m2024/01/05 23:53:14 [0m[32mINF[0m [RTSP] [conn [::1]:52996] closed (EOF)
+[90m2024/01/05 23:53:14 [0m[32mINF[0m [RTSP] [conn [::1]:53020] closed (terminated)
+[90m2024/01/05 23:53:14 [0m[32mINF[0m [RTSP] [conn [::1]:52790] closed (terminated)
+[90m2024/01/05 23:53:14 [0m[32mINF[0m [RTSP] [session 460454c3] destroyed (terminated)
+[90m2024/01/05 23:53:14 [0m[32mINF[0m [RTSP] [conn [::1]:59734] closed (terminated)
+[90m2024/01/05 23:53:14 [0m[32mINF[0m [RTSP] [session f1c70622] destroyed (terminated)
+[90m2024/01/05 23:53:14 [0m[32mINF[0m [RTSP] [session 6b0c809d] destroyed (terminated)
+[90m2024/01/09 20:42:12 [0m[32mINF[0m rtsp-simple-server v0.20.4
+[90m2024/01/09 20:42:12 [0m[32mINF[0m [RTSP] listener opened on :8554 (TCP), :8000 (UDP/RTP), :8001 (UDP/RTCP)
+[90m2024/01/09 20:42:12 [0m[32mINF[0m [RTMP] listener opened on :1935
+[90m2024/01/09 20:42:12 [0m[32mINF[0m [HLS] listener opened on :8888
+[90m2024/01/09 20:42:20 [0m[32mINF[0m [RTSP] [conn [::1]:38806] opened
+[90m2024/01/09 20:42:20 [0m[32mINF[0m [RTSP] [session f64437ff] created by [::1]:38806
+[90m2024/01/09 20:42:20 [0m[32mINF[0m [RTSP] [session f64437ff] is publishing to path 'seq25_h264', with UDP, 1 track (H264)
+[90m2024/01/09 20:42:23 [0m[32mINF[0m [RTSP] [conn [::1]:38808] opened
+[90m2024/01/09 20:42:23 [0m[32mINF[0m [RTSP] [session 6a020493] created by [::1]:38808
+[90m2024/01/09 20:42:24 [0m[32mINF[0m [RTSP] [session 6a020493] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/09 20:42:24 [0m[32mINF[0m [RTSP] [session 6a020493] destroyed (teared down by [::1]:38808)
+[90m2024/01/09 20:42:24 [0m[32mINF[0m [RTSP] [conn [::1]:38808] closed (read tcp [::1]:8554->[::1]:38808: read: connection reset by peer)
+[90m2024/01/09 20:42:24 [0m[32mINF[0m [RTSP] [conn [::1]:38810] opened
+[90m2024/01/09 20:42:24 [0m[32mINF[0m [RTSP] [session e3ba5c46] created by [::1]:38810
+[90m2024/01/09 20:42:25 [0m[32mINF[0m [RTSP] [session e3ba5c46] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/09 20:43:26 [0m[32mINF[0m [RTSP] [conn [::1]:53908] opened
+[90m2024/01/09 20:43:26 [0m[32mINF[0m [RTSP] [session 56176f7b] created by [::1]:53908
+[90m2024/01/09 20:43:26 [0m[32mINF[0m [RTSP] [session 56176f7b] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/10 04:54:11 [0m[32mINF[0m rtsp-simple-server v0.20.4
+[90m2024/01/10 04:54:11 [0m[32mINF[0m [RTSP] listener opened on :8554 (TCP), :8000 (UDP/RTP), :8001 (UDP/RTCP)
+[90m2024/01/10 04:54:11 [0m[32mINF[0m [RTMP] listener opened on :1935
+[90m2024/01/10 04:54:11 [0m[32mINF[0m [HLS] listener opened on :8888
+[90m2024/01/10 04:54:19 [0m[32mINF[0m [RTSP] [conn [::1]:45418] opened
+[90m2024/01/10 04:54:19 [0m[32mINF[0m [RTSP] [session 9d82738d] created by [::1]:45418
+[90m2024/01/10 04:54:19 [0m[32mINF[0m [RTSP] [session 9d82738d] is publishing to path 'seq25_h264', with UDP, 1 track (H264)
+[90m2024/01/10 04:54:21 [0m[32mINF[0m [RTSP] [conn [::1]:45422] opened
+[90m2024/01/10 04:54:21 [0m[32mINF[0m [RTSP] [session 9bed2afe] created by [::1]:45422
+[90m2024/01/10 04:54:22 [0m[32mINF[0m [RTSP] [session 9bed2afe] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/10 04:54:23 [0m[32mINF[0m [RTSP] [session 9bed2afe] destroyed (teared down by [::1]:45422)
+[90m2024/01/10 04:54:23 [0m[32mINF[0m [RTSP] [conn [::1]:45422] closed (EOF)
+[90m2024/01/10 04:54:23 [0m[32mINF[0m [RTSP] [conn [::1]:45436] opened
+[90m2024/01/10 04:54:23 [0m[32mINF[0m [RTSP] [session 3045e963] created by [::1]:45436
+[90m2024/01/10 04:54:23 [0m[32mINF[0m [RTSP] [conn [::1]:34892] opened
+[90m2024/01/10 04:54:23 [0m[32mINF[0m [RTSP] [session 05f63c97] created by [::1]:34892
+[90m2024/01/10 04:54:23 [0m[32mINF[0m [RTSP] [session 05f63c97] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/10 04:54:24 [0m[32mINF[0m [RTSP] [session 3045e963] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/10 05:21:58 [0m[32mINF[0m rtsp-simple-server v0.20.4
+[90m2024/01/10 05:21:58 [0m[97;41mERR[0m listen udp :8000: bind: address already in use
+[90m2024/01/10 05:21:58 [0m[32mINF[0m waiting for external commands
+[90m2024/01/10 05:22:04 [0m[32mINF[0m [RTSP] [conn [::1]:53886] opened
+[90m2024/01/10 05:22:04 [0m[32mINF[0m [RTSP] [session a5ca7d2e] created by [::1]:53886
+[90m2024/01/10 05:22:04 [0m[32mINF[0m [path seq25_h264] closing existing publisher
+[90m2024/01/10 05:22:04 [0m[32mINF[0m [RTSP] [conn [::1]:45436] closed (terminated)
+[90m2024/01/10 05:22:04 [0m[32mINF[0m [RTSP] [conn [::1]:34892] closed (terminated)
+[90m2024/01/10 05:22:04 [0m[32mINF[0m [RTSP] [session 3045e963] destroyed (terminated)
+[90m2024/01/10 05:22:04 [0m[32mINF[0m [RTSP] [session 05f63c97] destroyed (terminated)
+[90m2024/01/10 05:22:04 [0m[32mINF[0m [RTSP] [conn [::1]:45418] closed (terminated)
+[90m2024/01/10 05:22:04 [0m[32mINF[0m [RTSP] [session 9d82738d] destroyed (terminated)
+[90m2024/01/10 05:22:04 [0m[32mINF[0m [RTSP] [session a5ca7d2e] is publishing to path 'seq25_h264', with UDP, 1 track (H264)
+[90m2024/01/10 05:22:09 [0m[32mINF[0m [RTSP] [conn [::1]:53898] opened
+[90m2024/01/10 05:22:09 [0m[32mINF[0m [RTSP] [session 81aa009b] created by [::1]:53898
+[90m2024/01/10 05:22:09 [0m[32mINF[0m [RTSP] [conn [::1]:53912] opened
+[90m2024/01/10 05:22:09 [0m[32mINF[0m [RTSP] [session df325b6e] created by [::1]:53912
+[90m2024/01/10 05:22:09 [0m[32mINF[0m [RTSP] [session df325b6e] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/10 05:22:10 [0m[32mINF[0m [RTSP] [session 81aa009b] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/10 05:22:10 [0m[32mINF[0m [RTSP] [session 81aa009b] destroyed (teared down by [::1]:53898)
+[90m2024/01/10 05:22:10 [0m[32mINF[0m [RTSP] [conn [::1]:53898] closed (EOF)
+[90m2024/01/10 05:22:10 [0m[32mINF[0m [RTSP] [conn [::1]:53914] opened
+[90m2024/01/10 05:22:10 [0m[32mINF[0m [RTSP] [session 9e478171] created by [::1]:53914
+[90m2024/01/10 05:22:11 [0m[32mINF[0m [RTSP] [session 9e478171] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/10 20:24:16 [0m[32mINF[0m rtsp-simple-server v0.20.4
+[90m2024/01/10 20:24:16 [0m[32mINF[0m [RTSP] listener opened on :8554 (TCP), :8000 (UDP/RTP), :8001 (UDP/RTCP)
+[90m2024/01/10 20:24:16 [0m[32mINF[0m [RTMP] listener opened on :1935
+[90m2024/01/10 20:24:16 [0m[32mINF[0m [HLS] listener opened on :8888
+[90m2024/01/10 20:24:24 [0m[32mINF[0m [RTSP] [conn [::1]:54182] opened
+[90m2024/01/10 20:24:24 [0m[32mINF[0m [RTSP] [session be614d54] created by [::1]:54182
+[90m2024/01/10 20:24:24 [0m[32mINF[0m [RTSP] [session be614d54] is publishing to path 'seq25_h264', with UDP, 1 track (H264)
+[90m2024/01/10 20:24:27 [0m[32mINF[0m [RTSP] [conn [::1]:54188] opened
+[90m2024/01/10 20:24:27 [0m[32mINF[0m [RTSP] [session 3e8eb4c1] created by [::1]:54188
+[90m2024/01/10 20:24:28 [0m[32mINF[0m [RTSP] [session 3e8eb4c1] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/10 20:24:28 [0m[32mINF[0m [RTSP] [session 3e8eb4c1] destroyed (teared down by [::1]:54188)
+[90m2024/01/10 20:24:28 [0m[32mINF[0m [RTSP] [conn [::1]:54188] closed (EOF)
+[90m2024/01/10 20:24:28 [0m[32mINF[0m [RTSP] [conn [::1]:41774] opened
+[90m2024/01/10 20:24:28 [0m[32mINF[0m [RTSP] [session ce5366ca] created by [::1]:41774
+[90m2024/01/10 20:24:29 [0m[32mINF[0m [RTSP] [session ce5366ca] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/10 20:24:57 [0m[32mINF[0m [RTSP] [conn [::1]:48202] opened
+[90m2024/01/10 20:24:57 [0m[32mINF[0m [RTSP] [session 8b942a7c] created by [::1]:48202
+[90m2024/01/10 20:24:57 [0m[32mINF[0m [RTSP] [session 8b942a7c] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/10 20:36:04 [0m[32mINF[0m [RTSP] [conn [::1]:56208] opened
+[90m2024/01/10 20:36:04 [0m[32mINF[0m [RTSP] [session 549ca40a] created by [::1]:56208
+[90m2024/01/10 20:36:04 [0m[32mINF[0m [RTSP] [session 549ca40a] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/11 04:19:50 [0m[32mINF[0m rtsp-simple-server v0.20.4
+[90m2024/01/11 04:19:50 [0m[32mINF[0m [RTSP] listener opened on :8554 (TCP), :8000 (UDP/RTP), :8001 (UDP/RTCP)
+[90m2024/01/11 04:19:50 [0m[32mINF[0m [RTMP] listener opened on :1935
+[90m2024/01/11 04:19:50 [0m[32mINF[0m [HLS] listener opened on :8888
+[90m2024/01/11 04:19:57 [0m[32mINF[0m [RTSP] [conn [::1]:43014] opened
+[90m2024/01/11 04:19:57 [0m[32mINF[0m [RTSP] [session 6d8f6959] created by [::1]:43014
+[90m2024/01/11 04:19:57 [0m[32mINF[0m [RTSP] [session 6d8f6959] is publishing to path 'seq25_h264', with UDP, 1 track (H264)
+[90m2024/01/11 04:20:00 [0m[32mINF[0m [RTSP] [conn [::1]:43022] opened
+[90m2024/01/11 04:20:00 [0m[32mINF[0m [RTSP] [session ed93f642] created by [::1]:43022
+[90m2024/01/11 04:20:01 [0m[32mINF[0m [RTSP] [session ed93f642] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/11 04:20:01 [0m[32mINF[0m [RTSP] [session ed93f642] destroyed (teared down by [::1]:43022)
+[90m2024/01/11 04:20:01 [0m[32mINF[0m [RTSP] [conn [::1]:43022] closed (EOF)
+[90m2024/01/11 04:20:01 [0m[32mINF[0m [RTSP] [conn [::1]:43030] opened
+[90m2024/01/11 04:20:01 [0m[32mINF[0m [RTSP] [session 9e47f0e5] created by [::1]:43030
+[90m2024/01/11 04:20:01 [0m[32mINF[0m [RTSP] [conn [::1]:43032] opened
+[90m2024/01/11 04:20:01 [0m[32mINF[0m [RTSP] [session 672a3dee] created by [::1]:43032
+[90m2024/01/11 04:20:01 [0m[32mINF[0m [RTSP] [session 672a3dee] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/11 04:20:02 [0m[32mINF[0m [RTSP] [session 9e47f0e5] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/11 04:44:38 [0m[32mINF[0m rtsp-simple-server v0.20.4
+[90m2024/01/11 04:44:38 [0m[32mINF[0m [RTSP] listener opened on :8554 (TCP), :8000 (UDP/RTP), :8001 (UDP/RTCP)
+[90m2024/01/11 04:44:38 [0m[32mINF[0m [RTMP] listener opened on :1935
+[90m2024/01/11 04:44:38 [0m[32mINF[0m [HLS] listener opened on :8888
+[90m2024/01/11 04:44:46 [0m[32mINF[0m [RTSP] [conn [::1]:60924] opened
+[90m2024/01/11 04:44:46 [0m[32mINF[0m [RTSP] [session eab3ea35] created by [::1]:60924
+[90m2024/01/11 04:44:46 [0m[32mINF[0m [RTSP] [session eab3ea35] is publishing to path 'seq25_h264', with UDP, 1 track (H264)
+[90m2024/01/11 04:44:49 [0m[32mINF[0m [RTSP] [conn [::1]:60932] opened
+[90m2024/01/11 04:44:49 [0m[32mINF[0m [RTSP] [session 295e758c] created by [::1]:60932
+[90m2024/01/11 04:44:50 [0m[32mINF[0m [RTSP] [session 295e758c] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/11 04:44:50 [0m[32mINF[0m [RTSP] [session 295e758c] destroyed (teared down by [::1]:60932)
+[90m2024/01/11 04:44:50 [0m[32mINF[0m [RTSP] [conn [::1]:60932] closed (EOF)
+[90m2024/01/11 04:44:50 [0m[32mINF[0m [RTSP] [conn [::1]:60936] opened
+[90m2024/01/11 04:44:50 [0m[32mINF[0m [RTSP] [session a1e29a97] created by [::1]:60936
+[90m2024/01/11 04:44:50 [0m[32mINF[0m [RTSP] [conn [::1]:60948] opened
+[90m2024/01/11 04:44:50 [0m[32mINF[0m [RTSP] [session 8918477f] created by [::1]:60948
+[90m2024/01/11 04:44:50 [0m[32mINF[0m [RTSP] [session 8918477f] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/11 04:44:51 [0m[32mINF[0m [RTSP] [session a1e29a97] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/15 20:32:44 [0m[32mINF[0m rtsp-simple-server v0.20.4
+[90m2024/01/15 20:32:44 [0m[32mINF[0m [RTSP] listener opened on :8554 (TCP), :8000 (UDP/RTP), :8001 (UDP/RTCP)
+[90m2024/01/15 20:32:44 [0m[32mINF[0m [RTMP] listener opened on :1935
+[90m2024/01/15 20:32:44 [0m[32mINF[0m [HLS] listener opened on :8888
+[90m2024/01/15 20:32:53 [0m[32mINF[0m [RTSP] [conn [::1]:55742] opened
+[90m2024/01/15 20:32:53 [0m[32mINF[0m [RTSP] [session 047c0f86] created by [::1]:55742
+[90m2024/01/15 20:32:53 [0m[32mINF[0m [RTSP] [session 047c0f86] is publishing to path 'seq25_h264', with UDP, 1 track (H264)
+[90m2024/01/15 20:32:55 [0m[32mINF[0m [RTSP] [conn [::1]:55744] opened
+[90m2024/01/15 20:32:55 [0m[32mINF[0m [RTSP] [session c862bb8d] created by [::1]:55744
+[90m2024/01/15 20:32:56 [0m[32mINF[0m [RTSP] [session c862bb8d] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/15 20:32:56 [0m[32mINF[0m [RTSP] [session c862bb8d] destroyed (teared down by [::1]:55744)
+[90m2024/01/15 20:32:56 [0m[32mINF[0m [RTSP] [conn [::1]:55744] closed (EOF)
+[90m2024/01/15 20:32:56 [0m[32mINF[0m [RTSP] [conn [::1]:55752] opened
+[90m2024/01/15 20:32:56 [0m[32mINF[0m [RTSP] [session daf7f608] created by [::1]:55752
+[90m2024/01/15 20:32:57 [0m[32mINF[0m [RTSP] [session daf7f608] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/15 20:39:50 [0m[32mINF[0m [RTSP] [conn [::1]:45422] opened
+[90m2024/01/15 20:39:50 [0m[32mINF[0m [RTSP] [session a316fcba] created by [::1]:45422
+[90m2024/01/15 20:39:50 [0m[32mINF[0m [RTSP] [session a316fcba] is reading from path 'seq25_h264', with TCP, 1 track (H264)
+[90m2024/01/15 23:01:09 [0m[32mINF[0m [RTSP] [conn [::1]:57772] opened
+[90m2024/01/15 23:01:09 [0m[32mINF[0m [RTSP] [session 2a5a685c] created by [::1]:57772
+[90m2024/01/15 23:01:09 [0m[32mINF[0m [RTSP] [session 2a5a685c] is reading from path 'seq25_h264', with TCP, 1 track (H264)
